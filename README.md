@@ -1,2 +1,3 @@
 # MyArduino
-My personal projects for the Arduino
+My personal projects for the Arduino,
+including examples. 
